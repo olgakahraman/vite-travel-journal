@@ -6,7 +6,7 @@ export default function Card(props) {
 			<img
 				src={`./public/${props.image}`}
 				className="card-image"
-				alt="city"
+				alt="card-img"
 			/>
 			<div className="card-body">
 				<span className="location">
