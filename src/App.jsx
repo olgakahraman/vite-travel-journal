@@ -22,11 +22,26 @@ function App() {
 		<div className="container">
 			<Navbar />
 			<input
+				placeholder="Search"
 				type="text"
 				id="searchInput"
 				onChange={(e) => setSearch(e.target.value)}
 			/>
 			<section className="cards-list">{cards}</section>
+			<footer>
+				<small>
+					This project was coded by Olga Dietiuk Kahraman -
+					2024 and it is{' '}
+					<a
+						href="https://github.com/olgakahraman/vite-travel-journal"
+						target="_blank"
+						title="GitHub"
+						rel="noopener noreferrer"
+					>
+						open-sourced on GitHub
+					</a>
+				</small>
+			</footer>
 		</div>
 	);
 }
