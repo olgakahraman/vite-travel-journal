@@ -37,7 +37,7 @@ export default [
 			country: 'USA',
 		},
 		googleMapsUrl:
-			'https://goo.gl/maps/1DGM5WrWnATgkSNB8https://www.google.com/maps/place/Orlando,+FL/@28.4807757,-81.6723187,10z/data=!3m1!4b1!4m6!3m5!1s0x88e773d8fecdbc77:0xac3b2063ca5bf9e!8m2!3d28.5383832!4d-81.3789269!16zL20vMHBseTA?entry=ttu',
+			'https://www.google.com/maps/place/Orlando,+FL/@28.4810734,-81.5078186,11z/data=!3m1!4b1!4m6!3m5!1s0x88e773d8fecdbc77:0xac3b2063ca5bf9e!8m2!3d28.5383832!4d-81.3789269!16zL20vMHBseTA?entry=ttu',
 		startDate: '22 Sep, 2024',
 		endDate: '30 Sep, 2024',
 		description:
