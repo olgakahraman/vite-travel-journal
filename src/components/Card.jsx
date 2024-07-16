@@ -14,7 +14,7 @@ export default function Card(props) {
 					{props.location.state}, {props.location.country}
 				</span>
 				<span className="maps">
-					<a href={props.googleMapsUrl}>
+					<a href={props.googleMapsUrl} target="_blank">
 						View on Google Maps{' '}
 					</a>
 				</span>
