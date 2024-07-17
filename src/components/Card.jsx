@@ -4,7 +4,7 @@ export default function Card(props) {
 	return (
 		<section className="card">
 			<img
-				src={`./public/images/${props.image}`}
+				src={`./images/${props.image}`}
 				className="card-image"
 				alt="card-img"
 			/>
